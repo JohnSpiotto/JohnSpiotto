@@ -2,92 +2,117 @@
 
 <div align="center">
 
-<img src="https://github.com/John-Spiotto.png" width="150" style="border-radius:50%;border:4px solid #0969da"/>
+<img src="https://github.com/John-Spiotto.png" width="140" style="border-radius:50%; border:3px solid #0078D4; box-shadow: 0px 4px 10px rgba(0,0,0,0.15);" alt="John Spiotto Profile Picture"/>
 
-# Hi there, I'm John Spiotto
+# Hi, I'm John Spiotto 👋
+### **Aspiring IT & Network Support Specialist**
 
-**John Spiotto**
+*Currently pursuing hands-on technical training at **MyComputerCareer***
 
-*My Computer Career Student*
-
-[![GITHUB](https://img.shields.io/badge/GITHUB-%40John-Spiotto-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/John-Spiotto) [![EMAIL](https://img.shields.io/badge/EMAIL-CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:johnspiottojr@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-John--Spiotto-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/John-Spiotto)
+[![Email](https://img.shields.io/badge/Email-johnspiottojr%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:johnspiottojr@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
 
 </div>
 
 ---
 
-## Professional Summary
+## 🚀 About Me
 
-Enthusiastic and detail-oriented IT candidate currently enrolled at My Computer Career, building practical skills in hardware, software, and network troubleshooting. Combines a strong passion for technology with excellent communication skills to deliver dependable user support. Eager to begin a new career in IT.
-
----
-
-## Skills Learned
-
-🖥️ Tech Essentials: ![Computer Hardware](https://img.shields.io/badge/Computer%20Hardware-0969da?style=flat-square) ![PC Assembly](https://img.shields.io/badge/PC%20Assembly-0969da?style=flat-square) ![Troubleshooting](https://img.shields.io/badge/Troubleshooting-0969da?style=flat-square) ![Virtualization](https://img.shields.io/badge/Virtualization-0969da?style=flat-square)
-
-🌐 Networking & Security: ![Routing & Switching](https://img.shields.io/badge/Routing%20%26%20Switching-0969da?style=flat-square)
-
-💻 Programming Languages & Tools: ![Linux CLI](https://img.shields.io/badge/Linux%20CLI-0969da?style=flat-square)
-
-☁️ Cloud & DevOps: ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0969da?style=flat-square)
+Enthusiastic and detail-oriented IT professional currently enrolled at **MyComputerCareer**, building practical expertise in hardware configuration, operating systems, and network troubleshooting. I combine a strong technical passion with effective communication skills to deliver reliable tier-1/tier-2 user support and drive operational efficiency.
 
 ---
 
-## 🏆 Certifications & Digital Badges
+## 🛠️ Technical Capabilities
 
-| Certification | Issuer | Verify | Badge |
-|---|---|---|---|
-| Microsoft Certified: Azure AI Fundamentals | Microsoft AI 901 | [Verify](https://learn.microsoft.com/api/credentials/share/en-us/JohnSpiotto-6118/E3BFCE68C1230DFD?sharingId=294CA9FA9C5F91DF) | — |
+### 🖥️ Hardware & Systems Support
+![Hardware](https://img.shields.io/badge/Computer_Hardware-0078D4?style=for-the-badge&logo=intel&logoColor=white)
+![PC Assembly](https://img.shields.io/badge/PC_Assembly-111827?style=for-the-badge&logo=amd&logoColor=white)
+![Troubleshooting](https://img.shields.io/badge/Troubleshooting-22C55E?style=for-the-badge&logo=dependabot&logoColor=white)
+![Virtualization](https://img.shields.io/badge/Virtualization-60A5FA?style=for-the-badge&logo=vmware&logoColor=white)
+
+### 🌐 Networking, Operating Systems & Cloud
+![Routing & Switching](https://img.shields.io/badge/Routing_&_Switching-0052CC?style=for-the-badge&logo=cisco&logoColor=white)
+![Linux CLI](https://img.shields.io/badge/Linux_CLI-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 ---
 
-## Course Portfolio
+## 🏆 Certifications & Badges
+
+| Certification / Exam | Issuing Organization | Status / Credential |
+| :--- | :---: | :---: |
+| **Microsoft Certified: Azure AI Fundamentals (AI-900)** | Microsoft | [📜 Verify Credential](https://learn.microsoft.com/api/credentials/share/en-us/JohnSpiotto-6118/E3BFCE68C1230DFD?sharingId=294CA9FA9C5F91DF) |
+
+---
+
+## 📚 Technical Coursework & Hands-On Labs
 
 <details>
-<summary><strong>Course 1: Networking I</strong></summary>
+<summary><b>📌 Course 1: Networking I</b></summary>
+<br>
 
-*No labs added yet.*
-
+* **Topics:** Network topologies, OSI Model, IP Addressing (IPv4/IPv6), subnetting basics, and router/switch configurations.
+* *Hands-on labs coming soon.*
 </details>
 
 <details>
-<summary><strong>Course 2: Computer & Security Essentials</strong></summary>
+<summary><b>📌 Course 2: Computer & Security Essentials</b></summary>
+<br>
 
-*No labs added yet.*
-
+* **Topics:** Hardware troubleshooting, malware removal, system diagnostics, and security best practices.
+* *Hands-on labs coming soon.*
 </details>
 
 <details>
-<summary><strong>Course 3: Operating Systems I</strong></summary>
+<summary><b>📌 Course 3: Operating Systems I</b></summary>
 
-*No labs added yet.*
+<br>
 
+* **Topics:** Windows OS installation and administration, Linux CLI operations, permissions management, and user accounts.
+* *Hands-on labs coming soon.*
 </details>
 
 <details>
-<summary><strong>Course 4: Security I</strong></summary>
+<summary><b>📌 Course 4: Security I</b></summary>
 
-*No labs added yet.*
+<br>
 
+* **Topics:** Fundamental cybersecurity concepts, access control lists (ACLs), firewalls, and encryption basics.
+* *Hands-on labs coming soon.*
 </details>
 
 <details>
-<summary><strong>Course 5: Server I</strong></summary>
+<summary><b>📌 Course 5: Server I</b></summary>
 
-*No labs added yet.*
+<br>
 
+* **Topics:** Windows Server deployment, Active Directory setup, DNS, DHCP, and group policies.
+* *Hands-on labs coming soon.*
 </details>
 
 <details>
-<summary><strong>Course 6: Networking & Security I</strong></summary>
+<summary><b>📌 Course 6: Networking & Security I</b></summary>
 
-*No labs added yet.*
+<br>
 
+* **Topics:** Enterprise network architecture, VPNs, perimeter security, and threat detection techniques.
+* *Hands-on labs coming soon.*
 </details>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=John-Spiotto&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=John-Spiotto&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages"/>
+
+</div>
 
 ---
 
 <div align="center">
-<sub>Built with the <a href="https://mycceducation.azurewebsites.net">MyComputer Career Digital Portfolio Builder</a> · ITSA Program</sub>
+<sub>Built with passion · Connected with <a href="https://mycceducation.azurewebsites.net">MyComputerCareer ITSA Program</a></sub>
 </div>
